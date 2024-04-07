@@ -1,4 +1,4 @@
-def display_board(board): #1
+def display_board(board): #
     print(board[0] + '|' + board[1] + '|' + board[2])
     print('-+-+-')
     print(board[3] + '|' + board[4] + '|' + board[5])
